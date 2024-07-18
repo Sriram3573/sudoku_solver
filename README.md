@@ -1,8 +1,7 @@
 ![Screenshot (147)](https://github.com/user-attachments/assets/835fb797-703f-45a4-84e7-859ac4d75704)
-![Screenshot (139)](https://github.com/user-attachments/assets/d3194881-3df5-431d-afd2-f2b12ec34ae9)
-![Screenshot (138)](https://github.com/user-attachments/assets/4b8b5f35-8ee0-4b1a-b368-95a6f3980aa0)
 ![Screenshot (135)](https://github.com/user-attachments/assets/c50ee19a-f41c-4f92-88b0-21b3c69ed16b)
-![Screenshot (148)](https://github.com/user-attachments/assets/5a42a15b-6dda-47a3-bfb8-f34bbdcbcb4a)
+![Screenshot (138)](https://github.com/user-attachments/assets/4b8b5f35-8ee0-4b1a-b368-95a6f3980aa0)
+![Screenshot (139)](https://github.com/user-attachments/assets/d3194881-3df5-431d-afd2-f2b12ec34ae9)
 
 
 **Sudoku-solver**
