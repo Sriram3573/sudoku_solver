@@ -3,7 +3,9 @@
 ![Screenshot (138)](https://github.com/user-attachments/assets/4b8b5f35-8ee0-4b1a-b368-95a6f3980aa0)
 ![Screenshot (135)](https://github.com/user-attachments/assets/c50ee19a-f41c-4f92-88b0-21b3c69ed16b)
 ![Screenshot (148)](https://github.com/user-attachments/assets/5a42a15b-6dda-47a3-bfb8-f34bbdcbcb4a)
-Sudoku-solver
+
+
+**Sudoku-solver**
 User Interface (UI):
 
 The UI consists of a main window created using the Tkinter library. Within the main window, a frame is created to organize the widgets. Labels, buttons, and entry fields are used to create the Sudoku grid, display messages, and interact with the user. Sudoku Solver Logic:
